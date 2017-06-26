@@ -32,7 +32,20 @@ def main():
     """
     testing
     """
-    pass
+    array = [[1, 2, 3],
+             [8, 9, 4],
+             [7, 6, 5]]
+    tmp = [x for x in array[0]]
+    tmp2 = [x[-1] for x in array[1:]]
+    for val in tmp2:
+        tmp.append(val)
+    tmp3 = [x for x in array[-1][-2::-1]]
+    for val in tmp3:
+        tmp.append(val)
+    tmp4 = [x[0] for x in array[-2:0:-1]]
+    for val in tmp4:
+        tmp.append(val)
+    print(tmp)
 
 if __name__ == '__main__':
     main()
