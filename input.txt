@@ -1,0 +1,37 @@
+#################################
+# ABT III
+#################################
+
+[pr2001]
+Drucker_Name: pr2001
+Drucker_ID: Kyocera Ecosys m6535cdn
+Treiber_ID: kyocera_mxxxxcdn
+
+[pr2002]
+Drucker_Name: pr2002
+Drucker_ID: Kyocera Ecosys m6535cdn
+Treiber_ID: kyocera_mxxxxcdn
+
+[pr2003]
+Drucker_Name: pr2003
+Drucker_ID: Kyocera Ecosys m6535cdn
+Treiber_ID: kyocera_mxxxxcdn
+
+#################################
+# ABT IV
+#################################
+
+[pr2004]
+Drucker_Name: pr2004
+Drucker_ID: Kyocera Ecosys m6535cdn
+Treiber_ID: kyocera_mxxxxcdn
+
+[pr2005]
+Drucker_Name: pr2005
+Drucker_ID: Kyocera Ecosys m6535cdn
+Treiber_ID: kyocera_mxxxxcdn
+
+[pr2006]
+Drucker_Name: pr2006
+Drucker_ID: Kyocera Ecosys m6535cdn
+Treiber_ID: kyocera_mxxxxcdn
