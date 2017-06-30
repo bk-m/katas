@@ -1,0 +1,10 @@
+http://dronestre.am/
+http://deckofcardsapi.com/
+https://www.mailgun.com/
+
+http://regexxer.sourceforge.net/
+http://regexr.com/
+
+https://developers.google.com/google-apps/calendar/
+https://developers.google.com/google-apps/tasks/
+https://developers.google.com/url-shortener/
